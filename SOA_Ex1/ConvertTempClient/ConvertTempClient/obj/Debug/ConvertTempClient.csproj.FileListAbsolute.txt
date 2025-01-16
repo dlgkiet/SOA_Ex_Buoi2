@@ -1,0 +1,10 @@
+D:\code\SOA_Ex1\ConvertTempClient\ConvertTempClient\bin\Debug\ConvertTempClient.exe.config
+D:\code\SOA_Ex1\ConvertTempClient\ConvertTempClient\bin\Debug\ConvertTempClient.exe
+D:\code\SOA_Ex1\ConvertTempClient\ConvertTempClient\bin\Debug\ConvertTempClient.pdb
+D:\code\SOA_Ex1\ConvertTempClient\ConvertTempClient\obj\Debug\ConvertTempClient.csproj.AssemblyReference.cache
+D:\code\SOA_Ex1\ConvertTempClient\ConvertTempClient\obj\Debug\ConvertTempClient.Form1.resources
+D:\code\SOA_Ex1\ConvertTempClient\ConvertTempClient\obj\Debug\ConvertTempClient.Properties.Resources.resources
+D:\code\SOA_Ex1\ConvertTempClient\ConvertTempClient\obj\Debug\ConvertTempClient.csproj.GenerateResource.cache
+D:\code\SOA_Ex1\ConvertTempClient\ConvertTempClient\obj\Debug\ConvertTempClient.csproj.CoreCompileInputs.cache
+D:\code\SOA_Ex1\ConvertTempClient\ConvertTempClient\obj\Debug\ConvertTempClient.exe
+D:\code\SOA_Ex1\ConvertTempClient\ConvertTempClient\obj\Debug\ConvertTempClient.pdb
